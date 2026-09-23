@@ -1,0 +1,14 @@
+num1=[1,2,3,4,5,]
+num2=[5,6,7,8,9]
+num3=num1+num2
+print(num3)
+print(num1)
+result=num1*3
+print(result)
+print(num1==num2)
+print(num1<num2)
+print(len(num1))
+print(num1[1:4])
+print(num2[1:3:4])
+reverse=num1[::-1]
+print(reverse)
